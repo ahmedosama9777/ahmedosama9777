@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
+<h1 align="center">Hiya 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">A Machine Learning Engineer trying to program machines that can put a dent in the world.  </h3>
 
 <h3 align="left">Check my LinkedIn profile:</h3>
