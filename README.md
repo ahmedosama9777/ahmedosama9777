@@ -2,7 +2,7 @@
 <h3 align="center">A Machine Learning Engineer trying to program machines that can put a dent in the world.  </h3>
 
 <p align="center">
-  <img src="https://github.com/ahmedosama9777/ahmedosama9777/blob/main/giphy.gif" width="500" height="500">
+  <img src="https://github.com/ahmedosama9777/ahmedosama9777/blob/main/giphy.gif" width="500" height="300">
 </p>
 
 
