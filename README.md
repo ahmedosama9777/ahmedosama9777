@@ -1,6 +1,8 @@
 <h1 align="center">Hiya 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">A Machine Learning Engineer trying to program machines that can put a dent in the world.  </h3>
 
+![alt text](https://github.com/ahmedosama9777/ahmedosama9777/blob/main/giphy.gif)
+
 <h3 align="left">Check my LinkedIn profile:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmedosama9777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmedosama9777" height="30" width="40" /></a>
