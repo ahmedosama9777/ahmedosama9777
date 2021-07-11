@@ -1,5 +1,5 @@
 <h1 align="center">Hiya 👋, I'm Ahmed Mohamed</h1>
-<h3 align="center">A Machine Learning Engineer trying to program machines that can put a dent in the world.  </h3>
+<h3 align="center">Trying to program machines that can put a dent in the world.  </h3>
 <h3 align = "center"> J'essaie de programmer des machines qui peuvent faire une brèche dans le monde. </h3>
 
 
