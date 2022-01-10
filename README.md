@@ -6,7 +6,10 @@
 <p align="center">
   <img src="https://github.com/ahmedosama9777/ahmedosama9777/blob/main/giphy.gif" width="300" height="250">
 </p>
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedosama9777)
+
+
+| <a href="https://github.com/ahmedosama9777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedosama9777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Osama's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama9777&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <h3 align="left">Check my LinkedIn profile:</h3>
