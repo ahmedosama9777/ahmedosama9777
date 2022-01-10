@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://github.com/ahmedosama9777/ahmedosama9777/blob/main/giphy.gif" width="300" height="250">
 </p>
-[![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedosama9777)
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedosama9777)
 
 
 <h3 align="left">Check my LinkedIn profile:</h3>
