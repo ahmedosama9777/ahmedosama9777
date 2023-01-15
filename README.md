@@ -1,6 +1,5 @@
-<h1 align="center">Salut, I'm Ahmed Mohamed, a Software - Machine Learning Engineer </h1>
+<h1 align="center">Hi, I'm Ahmed Mohamed, a Software - Engineer </h1>
 <h3 align="center">Trying to program softwares that can put a dent in the world.  </h3>
-<h3 align = "center"> J'essaie de programmer des logiciels qui peuvent faire une brèche dans le monde. </h3>
 
 
 <p align="center">
