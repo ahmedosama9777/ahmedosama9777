@@ -13,6 +13,11 @@
 
 <h3 align="left">Check my LinkedIn profile:</h3>
 <p align="left">
+<a href="https://ahmohamed.com" target="blank"><img align="center" src="https://github.com/ahmedosama9777/ahmedosama9777/blob/main/android-chrome-192x192.png" alt="ahmedosama9777" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Check my LinkedIn profile:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/ahmedosama9777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmedosama9777" height="30" width="40" /></a>
 </p>
 
