@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Mohamed, a Software Engineer </h1>
 <h3 align="center">Trying to program softwares that can put a dent in the world.  </h3>
 
-
 <p align="center">
   <img src="https://github.com/ahmedosama9777/ahmedosama9777/blob/main/coding.gif" width="498" height="249">
 </p>
