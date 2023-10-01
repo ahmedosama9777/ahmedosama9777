@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed Mohamed, a Software Engineer </h1>
+<h1 align="center">Hi, I'm Ahmed Osama, a Software Engineer </h1>
 <h3 align="center">Trying to program softwares that can put a dent in the world.  </h3>
 
 <p align="center">
